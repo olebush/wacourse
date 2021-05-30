@@ -17,7 +17,7 @@ _Давно хотел сам создавать веб-сайты, долго �
 >Если кому-то интересно ознакомиться с Youtube каналом этого проекта - вот ссылка:
 
   
- <a href="https://www.youtube.com/channel/UCf6CbGkP-S9tix87iz-xoMw" target="_blank"><img src="baner1.png" alt="канал"/></a>
+ <a href="https://www.youtube.com/channel/UCf6CbGkP-S9tix87iz-xoMw" target="_blank"><img src="img\baner1.png" alt="канал"/></a>
  
  ***
 
